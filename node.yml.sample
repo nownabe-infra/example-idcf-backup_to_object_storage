@@ -1,0 +1,10 @@
+idcf:
+  backup_to_object_storage:
+    access_key: YOUR_ACCESS_KEY
+    secret_key: YOUR_SECRET_KEY
+    directories:
+      - schedule: 48 * * * *
+        path: /backups
+        bucket: backup.yourbucket
+        expire: 1
+        command: mysqldump -u root -x --all-databases > /backups/dump_`date +\%Y\%m\%d\%H\%M`.sql

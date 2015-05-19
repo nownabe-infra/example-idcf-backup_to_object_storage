@@ -13,4 +13,4 @@ bundle exec itamae ssh --vagrant -y node.yml recipe.rb
 ```
 
 # Result
-![Result](https://raw.githubusercontent.com/nownabe-infra/example-idcf-backup_to_object_storage/master/screenshot.png)
+![Result](https://raw.githubusercontent.com/nownabe-infra/example-idcf-backup_to_object_storage/master/result_screenshot.png)

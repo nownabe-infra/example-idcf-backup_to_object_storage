@@ -9,13 +9,13 @@ GEM
       schash (~> 0.1.0)
       specinfra (>= 2.31.0, < 3.0.0)
       thor
-    itamae-plugin-recipe-idcf-backup_to_object_storage (0.1.4)
+    itamae-plugin-recipe-idcf-backup_to_object_storage (0.1.5)
       itamae
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (2.9.2)
     schash (0.1.1)
-    specinfra (2.33.1)
+    specinfra (2.34.1)
       net-scp
       net-ssh
     thor (0.19.1)

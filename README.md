@@ -1,5 +1,7 @@
 Example for [itamae-plugin-recipe-idcf-backup_to_object_storage](https://github.com/nownabe-infra/itamae-plugin-recipe-idcf-backup_to_object_storage)
 ==========
+Examlpe for [itamae-plugin-recipe-idcf-backup_to_object_storage](https://github.com/nownabe-infra/itamae-plugin-recipe-idcf-backup_to_object_storage).
+itamae-plugin-recipe-idcf-backup_to_object_storage is an itamae plugin to provide regular backup to [IDCF object storage](http://www.idcf.jp/cloud/storage/).
 
 # Usage
 ```bash
